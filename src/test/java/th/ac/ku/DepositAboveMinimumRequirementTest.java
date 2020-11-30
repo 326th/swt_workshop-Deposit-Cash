@@ -4,11 +4,12 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class DepositAboveMinimumRequirement {
+public class DepositAboveMinimumRequirementTest {
 
     @Test
     void deposit_More_Than_100_Total_Result_Should_Be_True(){
         //Arrange
+        \
         boolean expectedResult = true;
         float cash = 250f;
         Agent agent = new Agent();
