@@ -5,3 +5,5 @@ To run test, run the following command on the /swt_workshop-Deposit-Cash directo
 > mvn test    
 
 It should ended in 11 tests and no failures
+
+Name: Thananan Eim-on 6110545520
